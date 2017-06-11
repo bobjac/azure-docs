@@ -21,7 +21,7 @@ ms.author: raynew
 
 Welcome to the Azure Site Recovery service! This article provides a quick overview of the service.
 
-Outages are causes by natural events and operational failures. Your organization needs a business continuity and disaster recovery (BCDR) strategy so that, during planned and unplanned downtime, data stays safe, apps remain available, and business recovers to normal working conditions as soon as possible.
+Outages are caused by natural events and operational failures. Your organization needs a business continuity and disaster recovery (BCDR) strategy so that, during planned and unplanned downtime, data stays safe, apps remain available, and business recovers to normal working conditions as soon as possible.
 
 Azure Recovery Services contribute to your BCDR strategy. The [Azure Backup](https://docs.microsoft.com/en-us/azure/backup/) service keeps your data safe and recoverable. Site Recovery replicates, fails over, and recovers workloads, so that they remain available when failure occurs.
 
